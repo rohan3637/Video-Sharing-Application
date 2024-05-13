@@ -1,0 +1,15 @@
+/search-service/.env
+/search-service/node_modules
+
+/upload-service/.env
+/upload-service/node_modules
+
+/transcoder-service/.env
+/transcoder-service/node_modules
+
+/watch-service/.env
+/watch-service/node_modules
+
+/client/.env
+/client/node_modules
+/client/.next
